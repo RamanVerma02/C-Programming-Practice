@@ -1,0 +1,22 @@
+# Compiled output files
+a.out
+*.exe
+*.out
+
+# Object files
+*.o
+
+# Precompiled headers
+*.gch
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# Editor / OS files
+.vscode/
+.idea/
+*.swp
+*.tmp
+.DS_Store
+Thumbs.db
