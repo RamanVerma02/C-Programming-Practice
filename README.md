@@ -15,6 +15,7 @@ I am uploading them now as **proof of hands-on practice and strong fundamentals 
 ## Tools Used
 - C Language
 - GCC Compiler
+- VS Code
 
 ## Note
 These programs reflect my **learning journey** and focus on **clarity and fundamentals** rather than advanced optimizations.
